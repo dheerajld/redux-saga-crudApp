@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Sourabh",
+      "email": "Sourabh@gmail.com",
+      "phone": 855564158412,
+      "address": "US"
+    },
+    {
+      "name": "dhiraj",
+      "email": "dhirajdhas.32@gmail.com",
+      "phone": "8788454694",
+      "address": "Barshi",
+      "id": 3
+    },
+    {
+      "name": "nayan",
+      "email": "nayan@gmail.con",
+      "phone": "123216",
+      "address": "pune",
+      "id": 4
+    }
+  ]
+}
