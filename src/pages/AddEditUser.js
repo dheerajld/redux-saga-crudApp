@@ -103,12 +103,12 @@ function AddEditUser() {
                 <MDBInput
                     value={phone || ""}
                     name="phone"
-                    type="number"
+                    type="phone"  
                     onChange={onInputChange}
                     required
                     label="Phone"
                     validation="Please provide a phone"
-                    invalid
+                    invalid 
                 /><br />
                 <MDBInput
                     value={address || ""}
